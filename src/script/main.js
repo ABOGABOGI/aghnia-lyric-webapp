@@ -1,6 +1,6 @@
 import '../style/style.scss'
 import './custom.js'
-
+import 'regenerator-runtime'
 
 
 
